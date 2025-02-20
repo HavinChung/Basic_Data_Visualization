@@ -1,2 +1,2 @@
-# STAT3612
+# Basic EDA & Data Visualizaiton
 Statistical Machine Learning
